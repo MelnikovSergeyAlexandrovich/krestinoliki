@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\krestikinoliki\bin\Debug\krestikinoliki.exe.config
+C:\Users\User\source\repos\krestikinoliki\bin\Debug\krestikinoliki.exe
+C:\Users\User\source\repos\krestikinoliki\bin\Debug\krestikinoliki.pdb
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\App.g.cs
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki_MarkupCompile.cache
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki_MarkupCompile.lref
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.g.resources
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.Properties.Resources.resources
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.csproj.GenerateResource.cache
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.exe
+C:\Users\User\source\repos\krestikinoliki\obj\Debug\krestikinoliki.pdb
